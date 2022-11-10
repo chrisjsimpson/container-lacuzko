@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Nov 10 2022)
+
+#### ⚠️ Pushed to `main`
+
+- test adding content ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.1 (Thu Nov 10 2022)
 
 :tada: This release contains work from a new contributor! :tada:
